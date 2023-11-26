@@ -25,7 +25,7 @@ ___
 #
 
 ### Previous Projects
-<img style="width: 300px; height: 160px;" src="./images/LostCityThumbnail.png">
+<img style="width: 300px; height: 160px;" src="./Images/LostCityThumbnail.png">
             
       
       
