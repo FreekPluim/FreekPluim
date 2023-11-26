@@ -25,38 +25,10 @@ ___
 #
 
 ### Previous Projects
-<div>
-<!--
-      img
-      name
-      small description
-      link
--->
-</div>
-
-</div>
-<div class="PreviousProjects" style="display:flex;">
-      <div align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36);" >       
-            <img style="width: 300px; height: 160px;" src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
-            <h4>Lost City</h4>
-            <div class="Icons">
-                  <img title="Engine" class="Engine" src="/assets/{{item.engine}}">
-                  <img title="Language" class="Language" src="/assets/{{item.language}}">
-            </div>
-            <div class="Tags">
-                  <p class="Tag">{{tag}}</p>
-      </div>
-      <div align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36);" >       
-            <img style="width: 300px; height: 160px;" src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
-            <h4>Lost City</h4>
-            <div class="Icons">
-                  <img title="Engine" class="Engine" src="/assets/{{item.engine}}">
-                  <img title="Language" class="Language" src="/assets/{{item.language}}">
-            </div>
-            <div class="Tags">
-                  <p class="Tag">{{tag}}</p>
-      </div>
-</div>
+<img style="width: 300px; height: 160px;" src="./images/LostCityThumbnail.png">
+            
+      
+      
 
 <!--
 **FreekPluim/FreekPluim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
