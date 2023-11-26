@@ -25,7 +25,7 @@ ___
   -->
 </div>
 
-<div align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36)">       
+<div align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36);">       
       <img style="width: 300px; height: 160px;" src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
       <h4>Lost City</h4>
       <div class="Icons">
@@ -36,7 +36,7 @@ ___
             <p class="Tag">{{tag}}</p>
       </div>
 </div>
-<div align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36)" >       
+<div align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36);" >       
       <img style="width: 300px; height: 160px;" src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
       <h4>Lost City</h4>
       <div class="Icons">
