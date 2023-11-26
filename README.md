@@ -22,6 +22,9 @@ ___
 <a href="https://skaldr.itch.io/lux-et-nox" target="_blank">
      <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LuxetNoxThumbnail.png">
 </a>
+<a href="https://skaldr.itch.io/brewconomy" target="_blank">
+     <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/BrewConomyThumbnail.png">
+</a>
 
 <!--
 **FreekPluim/FreekPluim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
