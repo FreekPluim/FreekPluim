@@ -1,7 +1,8 @@
 <h1>Freek Pluim</h1>
 
 <p>I am a student at Saxion Hogeschool in Enschede in The Netherlands, studying to become a video game programmer at Creative Media and Game Technology - CMGT. </p>
----
+
+___
 
 <h3>Languages and Engines</h3>
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
