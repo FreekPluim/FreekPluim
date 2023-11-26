@@ -22,7 +22,18 @@ ___
 <a href="https://skaldr.itch.io/lux-et-nox" target="_blank">
      <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LuxetNoxThumbnail.png">
 </a>
-      
+<a href="https://skaldr.itch.io/lostcity" target="_blank">
+     <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LostCityThumbnail.png">
+</a>
+<a href="https://skaldr.itch.io/lux-et-nox" target="_blank">
+     <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LuxetNoxThumbnail.png">
+</a>
+<a href="https://skaldr.itch.io/lostcity" target="_blank">
+     <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LostCityThumbnail.png">
+</a>
+<a href="https://skaldr.itch.io/lux-et-nox" target="_blank">
+     <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LuxetNoxThumbnail.png">
+</a>
       
 
 <!--
