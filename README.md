@@ -13,12 +13,9 @@ ___
 <img  align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </br>
 
-#
+___
 
 ### Previous Projects
-
-#
-
 #### Game Jams
 <a href="https://skaldr.itch.io/lostcity" target="_blank">
      <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LostCityThumbnail.png">
