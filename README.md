@@ -25,8 +25,8 @@ ___
   -->
 </div>
 
-<div style="width: 100px; height: 330px;">       
-      <img src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
+<div style="width: 300px; height: 330px;">       
+      <img style="width: 300px; height: 140px; src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
       <h4>Lost City</h4>
       <div class="Icons">
           <img title="Engine" class="Engine" src="/assets/{{item.engine}}">
