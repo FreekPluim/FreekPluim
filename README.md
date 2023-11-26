@@ -16,10 +16,10 @@ ___
 #
 
 ### Previous Projects
-<a href="https://skaldr.itch.io/lostcity" target="_blank" style="padding-right:50px;">
+<a href="https://skaldr.itch.io/lostcity" target="_blank" style="padding-right: 50px;">
      <img style="width: 300px; height: 160px;" src="./Images/LostCityThumbnail.png">
 </a>
-<a href="https://skaldr.itch.io/lux-et-nox" target="_blank" style="padding-right:50px;">
+<a href="https://skaldr.itch.io/lux-et-nox" target="_blank" style="padding-right: 50px;">
      <img style="width: 300px; height: 160px;" src="./Images/LuxetNoxThumbnail.png">
 </a>
       
