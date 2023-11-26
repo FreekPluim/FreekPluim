@@ -28,7 +28,7 @@ ___
 <a href="https://skaldr.itch.io/lostcity">
      <img style="width: 300px; height: 160px;" src="./Images/LostCityThumbnail.png">
 </a>
-<a href="https://skaldr.itch.io/lostcity">
+<a href="https://skaldr.itch.io/lux-et-nox">
      <img style="width: 300px; height: 160px;" src="./Images/LuxetNoxThumbnail.png">
 </a>
 <a href="https://skaldr.itch.io/lostcity">
