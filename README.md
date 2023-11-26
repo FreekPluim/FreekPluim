@@ -25,7 +25,7 @@ ___
   -->
 </div>
 
-<div width="300px" height="330px">       
+<div width="300px" height="330px" color="#1d2424">       
       <img src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
       <h4>Lost City</h4>
       <div class="Icons">
