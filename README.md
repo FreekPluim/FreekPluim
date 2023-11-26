@@ -1,12 +1,3 @@
-<style>
-     .Info-box{
-            width: 300px; 
-            height: 330px; 
-            padding-right:10px; 
-            background-color:rgb(29, 36, 36);
-     }       
-</style>
-      
 <h1>Freek Pluim</h1>
 
 <p>I am a student at Saxion Hogeschool in Enschede in The Netherlands, studying to become a video game programmer at Creative Media and Game Technology - CMGT. </p>
@@ -26,10 +17,10 @@ ___
 
 ### Previous Projects
 <a href="https://skaldr.itch.io/lostcity" target="_blank">
-     <img style="width: 300px; height: 160px; padding-right:20px;" src="./Images/LostCityThumbnail.png">
+     <img style="width: 300px; height: 160px; padding-right:50px;" src="./Images/LostCityThumbnail.png">
 </a>
 <a href="https://skaldr.itch.io/lux-et-nox" target="_blank">
-     <img style="width: 300px; height: 160px; padding-right:20px;" src="./Images/LuxetNoxThumbnail.png">
+     <img style="width: 300px; height: 160px; padding-right:50px;" src="./Images/LuxetNoxThumbnail.png">
 </a>
       
       
