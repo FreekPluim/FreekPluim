@@ -25,7 +25,9 @@ ___
 #
 
 ### Previous Projects
-<img style="width: 300px; height: 160px;" src="./Images/LostCityThumbnail.png">
+<a href="https://skaldr.itch.io/lostcity">
+     <img style="width: 300px; height: 160px;" src="./Images/LostCityThumbnail.png">
+</a>
             
       
       
