@@ -34,8 +34,9 @@ ___
 -->
 </div>
 
-</div>   
-<div class="Info-box" align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36);" >       
+</div>
+<div class="PreviousProjects" style="display:flex;">
+<div align="left" style="width: 300px; height: 330px; padding-right:10px; background-color:rgb(29, 36, 36);" >       
       <img style="width: 300px; height: 160px;" src="https://img.itch.zone/aW1nLzUwOTg5MTMucG5n/original/jFk9af.png">
       <h4>Lost City</h4>
       <div class="Icons">
