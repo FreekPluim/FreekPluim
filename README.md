@@ -1,6 +1,7 @@
 <h1>Freek Pluim</h1>
 
-<p>I am a student at Saxion Hogeschool in Enschede - Netherlands. \n Studying to become a video game programmer at Creative Media and Game Technology - CMGT.</p>
+<p>I am a student at Saxion Hogeschool in Enschede - Netherlands. 
+  Studying to become a video game programmer at Creative Media and Game Technology - CMGT.</p>
 
 <!--
 **FreekPluim/FreekPluim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
