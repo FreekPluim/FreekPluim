@@ -1,8 +1,12 @@
 <h1>Freek Pluim</h1>
 
 <p>I am a student at Saxion Hogeschool in Enschede in The Netherlands, studying to become a video game programmer at Creative Media and Game Technology - CMGT. </p>
+---
 
-<h2>Programming Languages</h2>
+<h3>Languages and Engines</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 
 <!--
 **FreekPluim/FreekPluim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
