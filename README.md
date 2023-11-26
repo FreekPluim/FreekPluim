@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Freek Pluim</h1>
+
+<p>I am a student at Saxion Hogeschool in Enscheded - Netherlands. Studying to become a video game programmer.</p>
 
 <!--
 **FreekPluim/FreekPluim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
