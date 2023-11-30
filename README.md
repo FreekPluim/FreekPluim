@@ -1,6 +1,9 @@
 <h1>Freek Pluim</h1>
 
-<p>I am a student at Saxion Hogeschool in Enschede in The Netherlands, studying to become a video game programmer at Creative Media and Game Technology - CMGT. </p>
+I am a motivated student eager to learn and try new things. 
+In my career as a video game programmer student, I have participated in 5 game jams and worked on numerous different group projects at school, for example, a 10-week project making a VR game for Oyfo Techniekmuseum.
+
+Currently, the 3 main projects I'm working on are <a href="https://github.com/FreekPluim/Whats-Inside">Whats-Inside</a>, A co-op puzzle game. <a href="https://github.com/FreekPluim/XP-Wolfs/">XP-Wolfs</a>, a discord bot made for a study association to play Werewolves on discord. and our current <a href="https://github.com/Sad-AI-dev/Minor_Skilled">Minor Project</a>, a roguelike game inspired by Risk Of Rain 2.
 
 ___
 
@@ -12,30 +15,6 @@ ___
 <img  align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </br>
-
-___
-
-### Previous Projects
-#### Game Jams
-<a href="https://skaldr.itch.io/lostcity" target="_blank">
-     <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LostCityThumbnail.png">
-</a>
-<a href="https://skaldr.itch.io/lux-et-nox" target="_blank">
-     <img style="width: 300px; height: 160px; padding-right: 100px;" src="./Images/LuxetNoxThumbnail.png">
-</a>
-
-#
-
-#### School Projects
-<a href="https://skaldr.itch.io/brewconomy" target="_blank">
-     <img style="width: 160px; height: 160px; padding-right: 100px;" src="./Images/BrewConomyThumbnail.png">
-</a>
-
-#
-
-#### Personal Projects
-
-
 
 <!--
 **FreekPluim/FreekPluim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
