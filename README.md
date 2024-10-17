@@ -7,6 +7,8 @@ Currently, the 2 main projects I'm working on are <a href="https://github.com/Fr
 
 From Febuary to July of 2024 i worked at Saxion XR Lab working on a multitude of serious games.
 
+For School I am currently working on Project IMT&S: Tweeduuster. This is going to become a semi-open world, story driven horror game about De non van Singraven.
+
 ___
 
 ### Languages and Engines
@@ -18,18 +20,3 @@ ___
 <img  align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </br>
-
-<!--
-**FreekPluim/FreekPluim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
