@@ -3,12 +3,13 @@
 I am a motivated student eager to learn and try new things. 
 In my career as a video game programmer student, I have participated in 5 game jams and worked on numerous different group projects at school, for example, a 10-week project making a VR game for Oyfo Techniekmuseum.
 
-Currently, the 2 main projects I'm working on are <a href="https://github.com/FreekPluim/Bartender">Bartender</a>, A game inspired by Papers Please and Bartender: The Right Mix. And <a href="https://github.com/FreekPluim/XP-Wolfs/">XP-Wolfs</a>, a discord bot made for study association XP to play Werewolves on discord.
+Currently, the 2 main projects I'm working on are <a href="https://github.com/FreekPluim/Bartender">Bartender</a>, A game inspired by Papers Please and Bartender: The Right Mix. 
+And <a href="https://github.com/FreekPluim/XP-Wolfs/">XP-Wolfs</a>, a discord bot made for study association XP to play Werewolves on discord.
 
-From Febuary to July of 2024 i worked at Saxion XR Lab working on a multitude of serious games.
+From Febuary to July of 2024 i worked at Saxion XR Lab working on a multitude of serious games for Enschede Promotie, Leiden Universiteit medisch centrum and others. 
+Most of these games where made in Unreal Engine with a few being made in Unity.
 
 For School I am currently working on Project IMT&S: Tweeduuster. This is going to become a semi-open world, story driven horror game about De non van Singraven.
-
 ___
 
 ### Languages and Engines
