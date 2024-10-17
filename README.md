@@ -9,7 +9,7 @@ And <a href="https://github.com/FreekPluim/XP-Wolfs/">XP-Wolfs</a>, a discord bo
 
 For School I am currently working on Project IMT&S: Tweeduuster. This is going to become a semi-open world, story driven horror game about De non van Singraven.
 
-## Previous worked on
+## Previously worked on
 From Febuary to July of 2024 i worked at Saxion XR Lab working on a multitude of serious games for Enschede Promotie, Leiden Universiteit medisch centrum and others. 
 Most of these games where made in Unreal Engine with a few being made in Unity.
 ___
