@@ -1,7 +1,7 @@
 <h1>Freek Pluim</h1>
 
 I am a motivated student eager to learn and try new things. 
-In my career as a video game programmer student, I have participated in 8 game jams and worked on numerous different group projects at school, for example, a 10-week project making a VR game for Oyfo Techniekmuseum.
+In my career as a video game programmer student, I have participated in 9 game jams and worked on numerous different group projects at school, for example, a 10-week project making a VR game for Oyfo Techniekmuseum.
 
 Currently, the 2 main projects I'm working on are <a href="https://github.com/FreekPluim/Bartender">Bartender</a>, A game inspired by Papers Please and Bartender: The Right Mix. 
 And <a href="https://github.com/FreekPluim/XP-Wolfs/">XP-Wolfs</a>, a discord bot made for study association XP to play Werewolves on discord.
