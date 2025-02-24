@@ -7,7 +7,7 @@ In my career as a video game programmer student, I have participated in 9 game j
 Currently, the 2 main projects I'm working on are <a href="https://github.com/FreekPluim/Bartender">Bartender</a>, A game inspired by Papers Please and Bartender: The Right Mix. 
 And <a href="https://github.com/FreekPluim/XP-Wolfs/">XP-Wolfs</a>, a discord bot made for study association XP to play Werewolves on discord.
 
-For School I am currently working on Project IMT&S: Tweeduuster. This is going to become a semi-open world, story driven horror game about De non van Singraven.
+For School I am currently working on a graduation project. This is going to become a semi-open world, story driven horror game about De non van Singraven.
 
 ## Previously worked on
 From Febuary to July of 2024 i worked at Saxion XR Lab working on a multitude of serious games for Enschede Promotie, Leiden Universiteit medisch centrum and others. 
