@@ -1,7 +1,6 @@
 <h1>Freek Pluim</h1>
 
-I am a motivated student eager to learn and try new things. 
-In my career as a video game programmer student, I have participated in 9 game jams and worked on numerous different group projects at school, for example, a 10-week project making a VR game for Oyfo Techniekmuseum.
+I am newly graduated from Saxion University of Applied Science at the study "Creative Media and Game Technology". 
 
 ## Previous experience
 From Febuary to July of 2024 i worked at Saxion XR Lab, working on a multitude of serious games for Enschede Promotie, Leiden Universiteit medisch centrum and others. 
@@ -14,7 +13,15 @@ This project was created by me as programmer and 9 other students. The game was 
 <h3><a href="https://s4lt1.itch.io/call-for-action">Call for Action</a></h3>
 This game was created by me as a solo dev during a gamejam hosted by study assosiation XP. In the game, you work for a company where you just have to do small tasks on a board. Think pressing a button or rotating a dial to the correct possition. As days go on you need to complete more tasks. This might become overwhelming, if that is the case you just need to remember, "You can always call 6".
 
+For some more of my projects, you can check out my <a href="https://s4lt1.itch.io/">Itch page</a>
 
+
+## What am i working on
+<h3>Roguelike (Working title)</h3>
+This is the game I am currently working on. It is a 3D, top-down, rogue-like, strategy game with turnbased combat. It is currently not in a playable state
+
+<h3>School project rework</h3>
+I am also reworking a game i created in a group project in 2022. This game connects your phone to a game and uses it as a steering wheel for a karting game. This is playable with up to 4 players.
 
 ___
 
