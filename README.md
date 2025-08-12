@@ -3,15 +3,19 @@
 I am a motivated student eager to learn and try new things. 
 In my career as a video game programmer student, I have participated in 9 game jams and worked on numerous different group projects at school, for example, a 10-week project making a VR game for Oyfo Techniekmuseum.
 
-## Projects im working on
-Currently, the 2 main projects I'm working on are <a href="https://github.com/FreekPluim/Bartender">Bartender</a>, A game inspired by Papers Please and Bartender: The Right Mix. 
-And <a href="https://github.com/FreekPluim/XP-Wolfs/">XP-Wolfs</a>, a discord bot made for study association XP to play Werewolves on discord.
-
-For School I am currently working on a graduation project. This is going to become a semi-open world, story driven horror game about De non van Singraven.
-
-## Previously worked on
-From Febuary to July of 2024 i worked at Saxion XR Lab working on a multitude of serious games for Enschede Promotie, Leiden Universiteit medisch centrum and others. 
+## Previous experience
+From Febuary to July of 2024 i worked at Saxion XR Lab, working on a multitude of serious games for Enschede Promotie, Leiden Universiteit medisch centrum and others. 
 Most of these games where made in Unreal Engine with a few being made in Unity.
+
+## Projects
+###<a href="https://tygoh.itch.io/tweeduuster-vertical-slice">Shadows of Singraven</a>
+This project was created by me as programmer and 9 other students. The game was created for Project Tweeduuster, a project set up by a previous teacher of mine. It aims to bring back old folklore and myths from the Twente region of The Netherlands by bringing it to new media like AR apps or video games. The game is a vertical slice of a small, non-linear, puzzle, horror game about The nun of Singraven.
+
+###<a href="https://s4lt1.itch.io/call-for-action">Call for Action</a>
+This game was created by me as a solo dev during a gamejam hosted by study assosiation XP. In the game, you work for a company where you just have to do small tasks on a board. Think pressing a button or rotating a dial to the correct possition. As days go on you need to complete more tasks. This might become overwhelming, if that is the case you just need to remember, "You can always call 6".
+
+
+
 ___
 
 ### Languages and Engines
