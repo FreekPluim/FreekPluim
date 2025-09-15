@@ -34,6 +34,4 @@ ___
 <img align="left" alt="typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="unreal-engine" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" />
-<img  align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img  align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </br>
