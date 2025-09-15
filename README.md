@@ -20,6 +20,9 @@ For some more of my projects, you can check out my <a href="https://s4lt1.itch.i
 <h3>Roguelike (Working title)</h3>
 This is the game I am currently working on. It is a 3D, top-down, rogue-like, strategy game with turnbased combat. It is currently not in a playable state
 
+<h3>Bartender (Working title)</h3>
+In this game, you play as a bartender, making sure that people are of the right age to drink, which can be dificult when elves age differently than humand. And styling the bar how you would like.
+
 <h3>School project rework</h3>
 I am also reworking a game i created in a group project in 2022. This game connects your phone to a game and uses it as a steering wheel for a karting game. This is playable with up to 4 players.
 
